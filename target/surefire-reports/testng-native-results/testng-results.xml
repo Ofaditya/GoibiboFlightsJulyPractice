@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-20T14:22:32 IST" name="Command line suite" finished-at="2022-07-20T14:22:56 IST" duration-ms="24733">
+    <groups>
+    </groups>
+    <test started-at="2022-07-20T14:22:32 IST" name="Command line test" finished-at="2022-07-20T14:22:56 IST" duration-ms="24733">
+      <class name="org.example.TestClass">
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:org.example.TestClass@5ad851c9]" started-at="2022-07-20T14:22:28 IST" name="testSetup" finished-at="2022-07-20T14:22:32 IST" duration-ms="3287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:org.example.TestClass@5ad851c9]" started-at="2022-07-20T14:22:32 IST" name="openBrowser" finished-at="2022-07-20T14:22:42 IST" duration-ms="10200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="TripSel()[pri:2, instance:org.example.TestClass@5ad851c9]" started-at="2022-07-20T14:22:42 IST" name="TripSel" description="This method validates radio button functionality" finished-at="2022-07-20T14:22:42 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TripSel -->
+        <test-method signature="CityLoc()[pri:3, instance:org.example.TestClass@5ad851c9]" started-at="2022-07-20T14:22:42 IST" name="CityLoc" description="This method validates flight  To and From location functionality" finished-at="2022-07-20T14:22:47 IST" duration-ms="5366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CityLoc -->
+        <test-method signature="SetDepDate()[pri:4, instance:org.example.TestClass@5ad851c9]" started-at="2022-07-20T14:22:47 IST" name="SetDepDate" finished-at="2022-07-20T14:22:50 IST" duration-ms="2285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetDepDate -->
+        <test-method signature="SetRetDate()[pri:5, instance:org.example.TestClass@5ad851c9]" started-at="2022-07-20T14:22:50 IST" name="SetRetDate" finished-at="2022-07-20T14:22:52 IST" duration-ms="2321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetRetDate -->
+        <test-method signature="CalDoneBtn()[pri:6, instance:org.example.TestClass@5ad851c9]" started-at="2022-07-20T14:22:52 IST" name="CalDoneBtn" finished-at="2022-07-20T14:22:52 IST" duration-ms="354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CalDoneBtn -->
+        <test-method signature="SelTravelClass()[pri:7, instance:org.example.TestClass@5ad851c9]" started-at="2022-07-20T14:22:52 IST" name="SelTravelClass" finished-at="2022-07-20T14:22:53 IST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelTravelClass -->
+        <test-method signature="SearchFlightsBtn()[pri:8, instance:org.example.TestClass@5ad851c9]" started-at="2022-07-20T14:22:53 IST" name="SearchFlightsBtn" finished-at="2022-07-20T14:22:56 IST" duration-ms="3669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchFlightsBtn -->
+      </class> <!-- org.example.TestClass -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
